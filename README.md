@@ -13,13 +13,13 @@
 - Created a public GitHub repository.
 - Added a README.md file to document the setup process.
 # Issues Encountered
-# Issue 1: Unable to Find Claude Code and Codex Extensions
+## Issue 1: Unable to Find Claude Code and Codex Extensions
 After researching and following multiple tutorials, I was unable to locate these extensions in the current version of Cursor.
-# Resolution
+## Resolution
 I explored Cursor's settings and discovered that Claude (Sonnet) and Codex models were already available through the built-in Models section. I verified that both models were accessible and enabled.
-# Issue 2: Learning GitHub Repository Creation
+## Issue 2: Learning GitHub Repository Creation
 As a new user of GitHub repositories, I needed guidance on creating a public repository and managing project files.
-# Resolution
+## Resolution
 I watched YouTube tutorials and followed GitHub documentation to successfully create a public repository and add a README file.
 # What I Learned
 - How to install and configure Cursor IDE.
