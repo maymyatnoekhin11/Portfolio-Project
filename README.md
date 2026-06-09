@@ -1,10 +1,10 @@
 # AI Tools Portfolio Project
-Overview
-Tools installed
+# Overview
+# Tools installed
 Cursor IDE (macOS)
 GitHub
 Cursor AI built-in models (Claude Sonnet and Codex)
-Steps completed
+# Steps completed
 Downloaded and installed Cursor IDE on macOS.
 Created a Cursor account and signed in.
 Signed in to GitHub.
@@ -13,16 +13,16 @@ Explored Cursor settings and model configuration.
 Verified that Claude (Sonnet) and Codex models were available within Cursor.
 Created a public GitHub repository.
 Added a README.md file to document the setup process.
-Issues Issues Encountered
-Issue 1: Unable to Find Claude Code and Codex Extensions
+# Issues Encountered
+# Issue 1: Unable to Find Claude Code and Codex Extensions
 After researching and following multiple tutorials, I was unable to locate these extensions in the current version of Cursor.
-Resolution
+# Resolution
 I explored Cursor's settings and discovered that Claude (Sonnet) and Codex models were already available through the built-in Models section. I verified that both models were accessible and enabled.
-Issue 2: Learning GitHub Repository Creation
+# Issue 2: Learning GitHub Repository Creation
 As a new user of GitHub repositories, I needed guidance on creating a public repository and managing project files.
-Resolution
+# Resolution
 I watched YouTube tutorials and followed GitHub documentation to successfully create a public repository and add a README file.
-What I Learned
+# What I Learned
 How to install and configure Cursor IDE.
 How to create and manage a GitHub repository.
 How to research technical issues independently using online resources.
