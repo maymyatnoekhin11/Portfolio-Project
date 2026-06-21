@@ -5,7 +5,7 @@
 **Date Collected:** June 2026
 
 **Source:**  
-https://www.linkedin.com/in/chriswalker17/
+https://www.linkedin.com/in/chriswalker171/
 
 **Summary:**  
 Chris explains how educational content can improve demand generation by helping buyers make informed decisions.
@@ -20,7 +20,7 @@ Educational marketing attracts higher-quality leads and builds trust.
 **Date Collected:** June 2026
 
 **Source:**  
-https://www.linkedin.com/in/chriswalker17/
+https://www.linkedin.com/in/chriswalker171/
 
 **Summary:**  
 Chris discusses the concept of "dark social" and how many B2B buying decisions occur outside traditional tracking systems.
@@ -35,7 +35,7 @@ Marketers should look beyond attribution dashboards to understand customer behav
 **Date Collected:** June 2026
 
 **Source:**  
-https://www.linkedin.com/in/chriswalker17/
+https://www.linkedin.com/in/chriswalker171/
 
 **Summary:**  
 Chris shares examples of successful thought leadership strategies in B2B SaaS.
