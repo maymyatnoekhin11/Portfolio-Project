@@ -27,7 +27,6 @@ I watched YouTube tutorials and followed GitHub documentation to successfully cr
 - How to research technical issues independently using online resources.
 - How AI models such as Claude and Codex are integrated into development tools.
 - The importance of documenting processes and troubleshooting steps.
-# AI Tools Portfolio Project
 
 ---
 
