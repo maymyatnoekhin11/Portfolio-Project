@@ -5,7 +5,7 @@
 **Date Collected:** June 2026
 
 **Source:**  
-https://www.linkedin.com/in/gaetanodinardi/
+https://www.linkedin.com/in/officialg/
 
 **Summary:**  
 Gaetano discusses balancing AI tools with human expertise in content creation.
@@ -20,7 +20,7 @@ Human insight remains essential for creating valuable B2B content.
 **Date Collected:** June 2026
 
 **Source:**  
-https://www.linkedin.com/in/gaetanodinardi/
+https://www.linkedin.com/in/officialg/
 
 **Summary:**  
 Gaetano shares growth marketing strategies used by successful SaaS companies.
@@ -35,7 +35,7 @@ Sustainable growth requires experimentation, measurement, and iteration.
 **Date Collected:** June 2026
 
 **Source:**  
-https://www.linkedin.com/in/gaetanodinardi/
+https://www.linkedin.com/in/officialg/
 
 **Summary:**  
 Gaetano explains how educational content contributes to customer acquisition.
