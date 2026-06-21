@@ -4,7 +4,7 @@
 How to Grow on LinkedIn
 
 **Video URL:**  
-(Paste YouTube URL here)
+https://www.youtube.com/watch?v=XAyQMUSjs2w
 
 **Date Collected:**  
 June 2026
