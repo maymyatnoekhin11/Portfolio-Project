@@ -19,7 +19,7 @@ Simple and customer-focused messaging communicates value more effectively, reduc
 ## Post 
 
 **Date Collected:**  
-June 2026
+July 2026
 
 **Source:**  
 https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-activity-7470826617833967616-mXuF
@@ -34,7 +34,7 @@ A clear market point of view strengthens positioning, differentiates a company f
 ## Post 
 
 **Date Collected:**  
-June 2026
+July 2026
 
 **Source:**  
 https://www.linkedin.com/posts/chriswalker171_life-growth-career-activity-7484978835877289984-4PjA
@@ -49,7 +49,7 @@ Career growth begins with personal responsibility. Developing self-awareness, ma
 ## Post 
 
 **Date Collected:**  
-June 2026
+August 2026
 
 **Source:**  
 https://www.linkedin.com/posts/davegerhardt_cmo-council-activity-7490053450647519232-xS5h
@@ -64,7 +64,7 @@ Strong professional communities provide marketing leaders with practical insight
 ## Post 
 
 **Date Collected:**  
-June 2026
+July 2026
 
 **Source:**  
 https://www.linkedin.com/posts/officialg_ai-sources-drive-the-lowest-amount-of-website-activity-7486091743902330880-VVkH
@@ -79,7 +79,7 @@ AI traffic is growing but remains a relatively small source of website visits. B
 ## Post 
 
 **Date Collected:**  
-June 2026
+Jan 2026
 
 **Source:**  
 https://www.linkedin.com/posts/jasonbay_digitalexports-regionalecommerce-digitaleconomy-activity-7407223099907084288-XS3T
@@ -94,7 +94,7 @@ A strong digital ecosystem supported by collaboration, trust, and digital infras
 ## Post 
 
 **Date Collected:**  
-June 2026
+August 2026
 
 **Source:**  
 https://www.linkedin.com/posts/justinwelsh_ai-has-made-effort-really-cheap-thats-activity-7489311486817832961-ZKnh
@@ -109,7 +109,7 @@ AI is a powerful productivity tool, but long-term credibility and audience trust
 ## Post 
 
 **Date Collected:**  
-June 2026
+July 2026
 
 **Source:**  
 https://www.linkedin.com/posts/mandymcewen_sales-teams-need-better-linkedin-content-activity-7487911731055333376-ntz6
@@ -124,7 +124,7 @@ Sales teams achieve better results when they prioritize valuable, buyer-focused 
 ## Post 
 
 **Date Collected:**  
-June 2026
+August 2026
 
 **Source:**  
 https://www.linkedin.com/posts/rosssimmonds_emotional-targeting-talia-wolf-on-getting-activity-7490216306160459776-JyBV
@@ -139,7 +139,7 @@ Content performs better when it connects with customers on an emotional level. U
 ## Post
 
 **Date Collected:**  
-June 2026
+July 2026
 
 **Source:**  
 https://www.linkedin.com/posts/tasbober_after-writing-412-posts-on-linkedin-and-growing-activity-7486027380893843456-1QmD
