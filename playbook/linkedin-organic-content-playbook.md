@@ -59,3 +59,18 @@ Dave Gerhardt discusses the value of the Exit Five CMO Council, emphasizing that
 
 **Key Takeaway:**  
 Strong professional communities provide marketing leaders with practical insights, peer support, and opportunities to improve strategic decision-making. :contentReference[oaicite:1]{index=1}
+# Gaetano DiNardi - LinkedIn Content Analysis
+
+## Post 1
+
+**Date Collected:**  
+June 2026
+
+**Source:**  
+https://www.linkedin.com/posts/officialg_ai-sources-drive-the-lowest-amount-of-website-activity-7486091743902330880-VVkH
+
+**Summary:**  
+Gaetano DiNardi discusses how AI-generated traffic currently contributes only a small percentage of website visits compared to traditional search and other marketing channels. He emphasizes that while AI is becoming an emerging traffic source, marketers should continue prioritizing high-quality content, SEO, and sustainable distribution strategies rather than relying solely on AI-driven referrals. :contentReference[oaicite:0]{index=0}
+
+**Key Takeaway:**  
+AI traffic is growing but remains a relatively small source of website visits. B2B marketers should view AI as a complementary channel while continuing to invest in proven content marketing and organic growth strategies. :contentReference[oaicite:1]{index=1}
