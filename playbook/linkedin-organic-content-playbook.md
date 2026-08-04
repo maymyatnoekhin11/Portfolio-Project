@@ -76,21 +76,6 @@ Gaetano DiNardi discusses how AI-generated traffic currently contributes only a 
 AI traffic is growing but remains a relatively small source of website visits. B2B marketers should view AI as a complementary channel while continuing to invest in proven content marketing and organic growth strategies. :contentReference[oaicite:1]{index=1}
 # Jason Bay - LinkedIn Content Analysis
 
-## Post
-
-**Date Collected:**  
-June 2026
-
-**Source:**  
-https://www.linkedin.com/posts/jasonbay_digitalexports-regionalecommerce-digitaleconomy-activity-7407223099907084288-XS3T
-
-**Summary:**  
-Jason Bay discusses the opportunities created by the digital economy and regional e-commerce. He highlights how collaboration between the public and private sectors can strengthen digital identity, digital payments, logistics, and platform governance to build trust and enable cross-border digital trade. :contentReference[oaicite:1]{index=1}
-
-**Key Takeaway:**  
-A strong digital ecosystem supported by collaboration, trust, and digital infrastructure enables sustainable e-commerce growth and regional business expansion. :contentReference[oaicite:2]{index=2}
-# Jason Bay - LinkedIn Content Analysis
-
 ## Post 
 
 **Date Collected:**  
@@ -151,7 +136,7 @@ Ross Simmonds shares insights from Talia Wolf on emotional targeting, emphasizin
 Content performs better when it connects with customers on an emotional level. Understanding audience motivations and incorporating emotional targeting into content strategy can improve engagement, trust, and marketing effectiveness. :contentReference[oaicite:1]{index=1}
 # Tas Bober - LinkedIn Content Analysis
 
-## Post 
+## Post
 
 **Date Collected:**  
 June 2026
