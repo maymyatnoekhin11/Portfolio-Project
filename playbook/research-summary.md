@@ -111,12 +111,6 @@ The playbook converts individual expert insights into an actionable SOP for B2B 
 
 # LinkedIn Organic Content Strategy Playbook for B2B SaaS
 
-**Author:** May Myat Noe Khin  
-**Version:** 1.0 — August 2026  
-**Research base:** Analysis of 10 LinkedIn practitioners, YouTube transcripts, and industry reports — full source files available in `/research/`
-
----
-
 # Table of Contents
 
 1. Purpose & Scope  
