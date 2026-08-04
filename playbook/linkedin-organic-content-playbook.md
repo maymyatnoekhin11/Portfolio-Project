@@ -119,3 +119,18 @@ Justin Welsh explains that AI has dramatically reduced the effort required to cr
 
 **Key Takeaway:**  
 AI is a powerful productivity tool, but long-term credibility and audience trust come from authentic expertise, original insights, and consistent value creation—not from AI-generated content alone. :contentReference[oaicite:1]{index=1}
+# Mandy McEwen - LinkedIn Content Analysis
+
+## Post 1
+
+**Date Collected:**  
+June 2026
+
+**Source:**  
+https://www.linkedin.com/posts/mandymcewen_sales-teams-need-better-linkedin-content-activity-7487911731055333376-ntz6
+
+**Summary:**  
+Mandy McEwen explains that sales teams need higher-quality LinkedIn content that builds credibility and trust before outreach begins. She argues that simply publishing more content is not enough—sales representatives should share relevant insights, demonstrate expertise, and create content that addresses buyers' challenges. This approach helps prospects become familiar with the seller before a sales conversation takes place, making outreach more effective. :contentReference[oaicite:0]{index=0}
+
+**Key Takeaway:**  
+Sales teams achieve better results when they prioritize valuable, buyer-focused LinkedIn content that builds trust and supports relationship-driven social selling rather than relying solely on cold outreach. :contentReference[oaicite:1]{index=1}
